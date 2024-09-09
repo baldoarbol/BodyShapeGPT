@@ -6,3 +6,4 @@ Official repository of "BodyShapeGPT: SMPL Body Shape Manipulation with LLMs" [E
 
 In [European Conference on Computer Vision (ECCV) 2024](https://eccv.ecva.net)
 
+![BodyShapeGPT Summary]()
