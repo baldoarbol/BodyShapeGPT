@@ -16,6 +16,18 @@ Generative AI models provide a wide range of tools capable of performing complex
 ## Running the Model
 [WIP]
 
-## Citation
+## Dataset
 [WIP]
+
+## Citation
+If you find this repository useful please cite our work:
+
+```
+@misc{R-ARBOL_2024_ECCV_BodyShapeGpt,
+    author = {R. Árbol, Baldomero and Casas, Dan},
+    title = {BodyShapeGPT: SMPL Body Shape Manipulation with LLMs},
+    booktitle = {European Conference on Computer Vision (ECCV)}, 
+    year = {2024}
+}
+```
 
