@@ -24,6 +24,8 @@ git clone https://github.com/baldoarbol/BodyShapeGPT
 ```
 pip install -r requirements.txt
 ```
+### 4. Download the model weights
+Use [this OneDrive link](https://urjc-my.sharepoint.com/:u:/g/personal/baldomero_rodriguez_urjc_es/EUvZWSzuoEJAtJQB-iWWzdYBuDYj51hwOFmxQ429VeajEg?e=PpQ9QM) to download the LoRa model weights (.safetensors file). After downloading, place the .safetensors file into the "weights" folder located within the project directory.
 
 ## Running the Model
 You can use the script demo.py to try our model. Usage:
