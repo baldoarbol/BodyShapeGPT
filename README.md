@@ -4,7 +4,7 @@ Official repository of "BodyShapeGPT: SMPL Body Shape Manipulation with LLMs" [E
 
 [Baldomero R. Árbol](https://www.linkedin.com/in/baldomero-rodríguez-árbol-716132224/), [Dan Casas](https://dancasas.github.io/)
 
-In [European Conference on Computer Vision (ECCV) 2024](https://eccv.ecva.net)
+In [European Conference on Computer Vision Workshops (ECCVW) 2024](https://eccv.ecva.net)
 
 ![BodyShapeGPT Summary](./img/BodyShapeGPT_summary.gif)
 
@@ -38,10 +38,10 @@ python demo.py -d "[avatar description here]"
 If you find this repository useful please cite our work:
 
 ```
-@misc{R-ARBOL_2024_ECCV_BodyShapeGpt,
+@InProceedings{R-ARBOL_2024_ECCV_BodyShapeGpt,
     author = {R. Árbol, Baldomero and Casas, Dan},
     title = {BodyShapeGPT: SMPL Body Shape Manipulation with LLMs},
-    booktitle = {European Conference on Computer Vision (ECCV)}, 
+    booktitle = {European Conference on Computer Vision Workshops (ECCVW) 2024}, 
     year = {2024}
 }
 ```
