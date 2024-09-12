@@ -1,6 +1,6 @@
 # BodyShapeGPT: SMPL Body Shape Manipulation with LLMs
 
-Official repository of "BodyShapeGPT: SMPL Body Shape Manipulation with LLMs" [ECCV 2024]
+Official repository of "BodyShapeGPT: SMPL Body Shape Manipulation with LLMs" [ECCVW 2024]
 
 [Baldomero R. Árbol](https://www.linkedin.com/in/baldomero-rodríguez-árbol-716132224/), [Dan Casas](https://dancasas.github.io/)
 
@@ -30,11 +30,12 @@ Use [this OneDrive link](https://urjc-my.sharepoint.com/:u:/g/personal/baldomero
 ## Running the Model
 You can use the script demo.py to try our model. Usage:
 ```
-python demo.py -d "[avatar description here]"
+python3.9 demo.py "[avatar description]"
 ```
+demo.py runs a single inference on the provided prompt and outputs the result to the console. Feel free to customize the script as needed to better fit your use case.
 
 ## Dataset
-[WIP]
+In the root directory of this project, you'll find the `BodyShapeGPT_dataset.jsonl` file, which contains 21,000 natural language descriptions of avatars, each paired with their corresponding SMPL-X shape parameters.
 
 ## Citation
 If you find this repository useful please cite our work:
