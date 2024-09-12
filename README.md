@@ -32,10 +32,10 @@ You can use the script demo.py to try our model. Usage:
 ```
 python3.9 demo.py "[avatar description]"
 ```
-demo.py runs a single inference on the provided prompt and outputs the result to the console. Feel free to customize the script as needed to better fit your use case.
+demo.py runs a single inference on the provided prompt and outputs the result betas for a gender-neutral SMPL-X body. Feel free to customize the script as needed to better fit your use case.
 
 ## Dataset
-In the root directory of this project, you'll find the `BodyShapeGPT_dataset.jsonl` file, which contains 21,000 natural language descriptions of avatars, each paired with their corresponding SMPL-X shape parameters.
+In the root directory of this project, you'll find the `BodyShapeGPT_dataset.jsonl` file, which contains 21,000 natural language descriptions of avatars, each paired with their corresponding gender-neutral SMPL-X shape parameters.
 
 ## Citation
 If you find this repository useful please cite our work:
