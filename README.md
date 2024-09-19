@@ -4,7 +4,9 @@ Official repository of "BodyShapeGPT: SMPL Body Shape Manipulation with LLMs" [E
 
 [Baldomero R. Árbol](https://www.linkedin.com/in/baldomero-rodríguez-árbol-716132224/), [Dan Casas](https://dancasas.github.io/)
 
-In [European Conference on Computer Vision Workshops (ECCVW) 2024](https://eccv.ecva.net)
+In [European Conference on Computer Vision Workshops (ECCVW) 2024](https://eccv.ecva.net), [Workshop on Foundation Models for 3D Humans](https://human-foundation.github.io/workshop-eccv-2024/)
+
+[PDF📄](./img/BodyShapeGPT_summary.gif)
 
 ![BodyShapeGPT Summary](./img/BodyShapeGPT_summary.gif)
 
